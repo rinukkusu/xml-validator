@@ -1,2 +1,2 @@
 # xml-validator
-Validator vor XML
+Validator for XML
